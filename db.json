@@ -1,0 +1,45 @@
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "email": "john.smith@acme.com",
+  "phoneNumber": "+44123456789",
+  "mobile": "+44123456789",
+  "title": "Mr",
+  "jobTitle": "Manager",
+  "department": "Support",
+  "inactive": false,
+  "marketingOptOut": false,
+  "externalIntegrationId": "johnsmith1",
+  "integrationSrc": "PRIAVA",
+  "externalReferenceNo": 0,
+  "debtorNumber": "JS123",
+  "organisation": "ACME",
+  "organisationType": "Corporate",
+  "organisationMarketSector": "Information Technology",
+  "organisationAddress": {
+    "addressLine1": "ACME - Building 1",
+    "addressLine2": "11 Main Street",
+    "suburb": "Portsmouth",
+    "state": "Hampshire",
+    "postcode": "PO64AU",
+    "country": "United Kingdom"
+  },
+  "postalAddress": {
+    "addressLine1": "Valencia Apartments",
+    "addressLine2": "49 Feather Street",
+    "addressLine3": "PO Box 90, Harbour",
+    "suburb": "Portsmouth",
+    "state": "Hampshire",
+    "postcode": "PO63AU",
+    "country": "United Kingdom"
+  },
+  "otherAddress": {
+    "addressLine1": "Valencia Apartments",
+    "addressLine2": "49 Feather Street",
+    "addressLine3": "PO Box 90, Harbour",
+    "suburb": "Portsmouth",
+    "state": "Hampshire",
+    "postcode": "PO63AU",
+    "country": "United Kingdom"
+  }
+}
